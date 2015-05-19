@@ -14,7 +14,7 @@ Collect kinds of nice repositories.
 
 - [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 
- 里面有各种语言的 awesome 的资源，框架，技能树什么的。
+ 里面有各种语言的很 awesome 的资源，比如框架，技能树什么的。
 
 
 ---
@@ -23,20 +23,26 @@ Collect kinds of nice repositories.
 ## 轮子
 
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js)　
-
+ PDF Reader in JavaScript, built with HTML5.
+ Main language: JavaScript.
 
 
 ---
 
 ## 神奇的项目
 
+- [syncthing/syncthing](https://github.com/syncthing/syncthing)
+ 开源的文件同步工具。
+ Main language: Go.
+
+- [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x)
+ 对 Anime 图片放大有特效的工具。
+ Main language: Lua.
+
 
 ---
 
-
-## 系统相关
-
-### Mac OS
+## Mac Only
 
 - [maxogden/screencat](https://github.com/maxogden/screencat)
 
