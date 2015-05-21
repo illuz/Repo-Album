@@ -19,6 +19,14 @@ Collect kinds of nice repositories.
 
 ---
 
+## 教程
+
+- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning)
+ 文章，深入浅出机器学习(ipython, scikit-learn)。
+
+
+---
+
 
 ## 轮子
 
@@ -38,6 +46,13 @@ Collect kinds of nice repositories.
 - [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x)
  对 Anime 图片放大有特效的工具。
  Main language: Lua.
+
+- [no13bus/baymax](https://github.com/no13bus/baymax)
+ 搭建自己的个人生活数据库-大白，数据包括上网，打车，运动，身体健康指标统计等等。
+ 结合智能穿戴和 Github，很酷。
+
+- [tancredi/python-console-snake](https://github.com/tancredi/python-console-snake]
+ Python 贪吃蛇。
 
 
 ---
