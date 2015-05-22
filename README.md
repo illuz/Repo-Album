@@ -60,6 +60,6 @@ Collect kinds of nice repositories.
 ## Mac Only
 
 - [maxogden/screencat](https://github.com/maxogden/screencat)
-
+ 网页上共享页面的工具。
 
 
