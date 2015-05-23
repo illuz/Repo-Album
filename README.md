@@ -16,6 +16,8 @@ Collect kinds of nice repositories.
 
  里面有各种语言的很 awesome 的资源，比如框架，技能树什么的。
 
+- [hayeah/30-days-of-design](https://github.com/hayeah/30-days-of-design)
+ 2015 年设计长征，用 Sketch 学设计，有很多不错的资源。
 
 ---
 
@@ -61,5 +63,7 @@ Collect kinds of nice repositories.
 
 - [maxogden/screencat](https://github.com/maxogden/screencat)
  网页上共享页面的工具。
+
+
 
 
