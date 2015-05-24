@@ -19,6 +19,11 @@ Collect kinds of nice repositories.
 - [hayeah/30-days-of-design](https://github.com/hayeah/30-days-of-design)
  2015 年设计长征，用 Sketch 学设计，有很多不错的资源。
 
+- [jinxfei/desc-my-follow-repo](https://github.com/jinxfei/desc-my-follow-repo) [66beta/Star-Repo-Collection](https://github.com/66beta/Star-Repo-Collection) [yangbean9/my-stars](https://github.com/yangbean9/my-stars)
+ 跟本 Repo 差不多的几个 Repo。
+
+
+
 ---
 
 ## 教程
@@ -56,6 +61,8 @@ Collect kinds of nice repositories.
 - [tancredi/python-console-snake](https://github.com/tancredi/python-console-snake]
  Python 贪吃蛇。
 
+- [yhat/scrape](https://github.com/yhat/scrape)
+ 一个基于 Go 的爬虫工具。
 
 ---
 
