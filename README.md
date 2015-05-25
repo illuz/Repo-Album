@@ -64,6 +64,11 @@ Collect kinds of nice repositories.
 - [yhat/scrape](https://github.com/yhat/scrape)
  一个基于 Go 的爬虫工具。
 
+- [JelteF/PyLaTeX](https://github.com/JelteF/PyLaTeX)
+ 用 Python 做的 LaTeX 生成和编译工具！
+
+
+
 ---
 
 ## Mac Only
