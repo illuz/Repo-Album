@@ -67,6 +67,9 @@ Collect kinds of nice repositories.
 - [JelteF/PyLaTeX](https://github.com/JelteF/PyLaTeX)
  用 Python 做的 LaTeX 生成和编译工具！
 
+- [skylot/jadx](https://github.com/skylot/jadx)
+ 开源的 Java/Apk/Dalvik 逆向工具。
+
 
 
 ---
