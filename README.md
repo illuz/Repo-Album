@@ -67,8 +67,12 @@ Collect kinds of nice repositories.
 - [JelteF/PyLaTeX](https://github.com/JelteF/PyLaTeX)
  用 Python 做的 LaTeX 生成和编译工具！
 
-- [skylot/jadx](https://github.com/skylot/jadx)
- 开源的 Java/Apk/Dalvik 逆向工具。
+- [jonathanslenders/pyvim](https://github.com/jonathanslenders/pyvim)
+ 用 Python 写的类 vim 编辑器。
+
+- [mathall/rim](https://github.com/mathall/rim)
+ 用 Rust 写的类 vim 编辑器。
+
 
 
 
@@ -87,6 +91,8 @@ Collect kinds of nice repositories.
 - [jaredsburrows/AndroidGradleTemplate](https://github.com/jaredsburrows/AndroidGradleTemplate)
  很多 Anroid 的 Gradle 样例。
 
+- [skylot/jadx](https://github.com/skylot/jadx)
+ 开源的 Java/Apk/Dalvik 逆向工具。
 
 
 ---
