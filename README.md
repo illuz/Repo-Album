@@ -41,6 +41,10 @@ Collect kinds of nice repositories.
  PDF Reader in JavaScript, built with HTML5.
  Main language: JavaScript.
 
+- [jaredsburrows/AndroidGradleTemplate](https://github.com/jaredsburrows/AndroidGradleTemplate)
+ 很多 Anroid 的 Gradle 样例。
+
+
 
 ---
 
