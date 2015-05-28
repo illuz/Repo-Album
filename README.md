@@ -41,10 +41,6 @@ Collect kinds of nice repositories.
  PDF Reader in JavaScript, built with HTML5.
  Main language: JavaScript.
 
-- [jaredsburrows/AndroidGradleTemplate](https://github.com/jaredsburrows/AndroidGradleTemplate)
- 很多 Anroid 的 Gradle 样例。
-
-
 
 ---
 
@@ -78,10 +74,29 @@ Collect kinds of nice repositories.
 
 ---
 
-## Mac Only
+## Apple 相关
 
 - [maxogden/screencat](https://github.com/maxogden/screencat)
  网页上共享页面的工具。
+
+
+---
+
+## Android 相关
+
+- [jaredsburrows/AndroidGradleTemplate](https://github.com/jaredsburrows/AndroidGradleTemplate)
+ 很多 Anroid 的 Gradle 样例。
+
+
+
+---
+
+
+## 开源字体
+
+- [google/roboto](https://github.com/google/roboto)
+ Google 开源的 Roboto 字体家族。
+ Roboto 字体由 Google 设计师 Christian Robertson 创造，是 Android 和 Chrome OS 的默认字体，也是 Material Design 的推荐字体。
 
 
 
