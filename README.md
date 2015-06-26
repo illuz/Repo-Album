@@ -76,6 +76,8 @@ Collect kinds of nice repositories.
 - [mathall/rim](https://github.com/mathall/rim)
  用 Rust 写的类 vim 编辑器。
 
+- [lillian-lemmer/hypatia](https://github.com/lillian-lemmer/hypatia)
+ 用 Python 写的 2D 像素游戏引擎。
 
 
 
