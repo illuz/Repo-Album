@@ -34,6 +34,9 @@ Collect kinds of nice repositories.
 - [SwiftEducation/teaching-app-dev-swift](https://github.com/SwiftEducation/teaching-app-dev-swift)
  这是 [Teaching App Development with Swift](http://swifteducation.github.io/teaching_app_development_with_swift/) 教程的附带材料。
 
+- [huangz1990/redis](https://github.com/huangz1990/redis)
+  《Redis Command Reference》全文的中文翻译版。 http://www.RedisDoc.com
+
 
 ---
 
@@ -43,6 +46,12 @@ Collect kinds of nice repositories.
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js)　
  PDF Reader in JavaScript, built with HTML5.
  Main language: JavaScript.
+
+- [antirez/redis](https://github.com/antirez/redis)
+ 出名的 NoSQL 数据库。
+
+- [seppo0010/rsedis](https://github.com/seppo0010/rsedis)
+ 对 Redis 的 Rust 实现。
 
 
 ---
