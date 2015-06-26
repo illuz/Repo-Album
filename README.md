@@ -31,6 +31,9 @@ Collect kinds of nice repositories.
 - [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning)
  文章，深入浅出机器学习(ipython, scikit-learn)。
 
+- [SwiftEducation/teaching-app-dev-swift](https://github.com/SwiftEducation/teaching-app-dev-swift)
+ 这是 [Teaching App Development with Swift](http://swifteducation.github.io/teaching_app_development_with_swift/) 教程的附带材料。
+
 
 ---
 
