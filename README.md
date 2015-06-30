@@ -22,6 +22,8 @@ Collect kinds of nice repositories.
 - [jinxfei/desc-my-follow-repo](https://github.com/jinxfei/desc-my-follow-repo) [66beta/Star-Repo-Collection](https://github.com/66beta/Star-Repo-Collection) [yangbean9/my-stars](https://github.com/yangbean9/my-stars)  
  跟本 Repo 差不多的几个 Repo。  
   
+- [programthink/opensource](https://github.com/programthink/opensource)
+ 编程思想大大的「开源库及示例代码」。
   
   
 ---  
