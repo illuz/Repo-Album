@@ -90,6 +90,10 @@ Collect kinds of nice repositories.
 - [lillian-lemmer/hypatia](https://github.com/lillian-lemmer/hypatia)  
  用 Python 写的 2D 像素游戏引擎。  
   
+- [fogleman/nes](https://github.com/fogleman/nes)
+ 用 Go 做的红白机模拟器。  
+ 原文：[I made an NES emulator. Here’s what I learned about the original Nintendo.](https://medium.com/@fogleman/i-made-an-nes-emulator-here-s-what-i-learned-about-the-original-nintendo-2e078c9b28fe)  
+ 译文：[我用 Go 语言做了一个红白机模拟器](http://blog.jobbole.com/87068/)
   
   
 ---  
